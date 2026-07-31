@@ -18,3 +18,4 @@ Modified ESP8266 Faz Jammer firmware. Removed display support, optimized code, a
 
 
 ![Распиновка NodeMCU ESP8266](IMG_2516.png)
+![Распиновка NRF24](IMG_2518.jpeg)
