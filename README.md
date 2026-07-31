@@ -11,10 +11,10 @@ Modified ESP8266 Faz Jammer firmware. Removed display support, optimized code, a
 |MOSI    |D7        |
 |MISO    |D6        |
 
-|Кнопка|NodeMCU   |
+|button|NodeMCU   |
 |------|----------|
-|Нога 1|RX (GPIO3)|
-|Нога 2|GND       |
+|pin 1|RX (GPIO3)|
+|pin 2|GND       |
 
 
 ![Распиновка NodeMCU ESP8266](IMG_2516.png)
